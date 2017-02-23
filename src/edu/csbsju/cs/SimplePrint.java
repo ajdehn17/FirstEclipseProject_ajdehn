@@ -7,13 +7,7 @@ package edu.csbsju.cs;
  * @author ajdehn
  *
  */
-public class SimplePrint {
 
-	private String pName;
-	private String pAge;
-	private String pAddress;
-	private String j;
-	/**
 	 * 
 	 */
 	public SimplePrint() {
